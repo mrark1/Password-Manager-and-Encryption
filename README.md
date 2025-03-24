@@ -54,5 +54,11 @@ A simple and secure password manager built in C++ that allows users to store, re
 
 This project is open-source and available for educational purposes. Modify and improve as needed.
 
+##Output 
+You can also see the demo the how to use this .
+go to media/passwordManager ouput video.mp4
+
+Thanks 
+
 
 #CODE WITH ARPIT
